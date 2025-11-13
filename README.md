@@ -1,2 +1,2 @@
-# AI-project
+# AI-project animals
 This is a project about computer vision that can dogs and cats.
