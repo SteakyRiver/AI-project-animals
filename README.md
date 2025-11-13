@@ -1,2 +1,2 @@
 # AI-project
-Распознавание котиков и собачек, детекция
+Dogs and cats detection, computer vision.
